@@ -1,2 +1,2 @@
-copy the windows file if you have a windows pc 
-and the .app if you have a mac
+download the zip file on your pc and copy or extract it somewhere in your computer.
+Run the .exe file to play.
