@@ -1,2 +1,2 @@
-copy the windows file if you have a windows pc 
-and the .app if you have a mac
+I have created different branches for different OS.
+You can download the zip file for your required purpose.
